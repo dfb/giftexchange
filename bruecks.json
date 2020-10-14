@@ -1,0 +1,37 @@
+{
+  "groups": [
+    [
+      "Dave",
+      "Jennie",
+      "Jacob",
+      "Nate",
+      "Adam"
+    ],
+    [
+      "Karen",
+      "Jason",
+      "Jordan",
+      "Alyssa",
+      "Courtney"
+    ],
+    [
+      "Melanie",
+      "Ben",
+      "Cohen",
+      "Bentley"
+    ],
+    [
+      "Joanna",
+      "Craig",
+      "Karli",
+      "Hayden"
+    ],
+    [
+      "Ken",
+      "Julie",
+      "Addie",
+      "Ella"
+    ]
+  ],
+  "lastRun":"0adam-4julie::4addie-4ella::1alyssa-4addie::2ben-1alyssa::2bentley-2ben::2cohen-1courtney::1courtney-0nate::3craig-3karli::0dave-4ken::4ella-1jordan::3hayden-0jennie::0jacob-2melanie::1jason-3craig::0jennie-3joanna::3joanna-1jason::1jordan-0dave::4julie-3hayden::1karen-0adam::3karli-0jacob::4ken-2cohen::2melanie-2bentley::0nate-1karen"
+}
