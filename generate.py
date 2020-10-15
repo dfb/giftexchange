@@ -26,7 +26,7 @@ def LoadGroups(cfgFilename):
 
 def AttemptToGenPairings(groups, lastRun, maxAttempts=1000):
     '''Given a list of groups (where each group is a list of names of people in that group),
-    randomly generates a a list of pairs between people who give a gift to another person.
+    randomly generates a list of pairs between people who give a gift to another person.
     Does not validate the results. Note that this function is purely random and very simplistic,
     so it's possible to get stuck. If it can't come up with a workable set after maxAttempts
     tries, it gives up and returns None.'''
@@ -58,7 +58,7 @@ def AttemptToGenPairings(groups, lastRun, maxAttempts=1000):
             continue
 
         # Don't pair up two people from the same group
-        if giver[0] == getter[0]:
+        if giver[1] == getter[1]:
             attempts += 1
             continue
 
