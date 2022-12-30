@@ -1,12 +1,13 @@
 {
   "groups": [
-    ["Jon/Lauren"],
-    ["Jennie/Dave"],
-    ["Peter/Paige"],
-    ["Tim/Sarah"],
-    ["Mark/Rachel"],
-    ["Jef/Elphie"],
-    ["Mary/Carson"]
+    ["Jennie"],
+    ["Jon"],
+    ["Peter"],
+    ["Tim"],
+    ["Mark"],
+    ["Jef"],
+    ["Mary"]
   ],
-  "lastRun":""
+  "lastRun":"5jef-0jennie::0jennie-1jon::1jon-3tim::4mark-2peter::6mary-5jef::2peter-6mary::3tim-4mark"
 }
+
