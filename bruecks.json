@@ -3,14 +3,12 @@
     [
       "Dave",
       "Jennie",
-      "Jacob",
       "Nate",
       "Adam"
     ],
     [
       "Karen",
       "Jason",
-      "Alyssa",
       "Courtney"
     ],
     [
@@ -32,7 +30,8 @@
       "Ella"
     ]
   ],
-  "lastRun":"0adam-2cohen::4addie-2bentley::1alyssa-0jennie::2ben-4ken::2bentley-3karli::2cohen-0dave::1courtney-3craig::3craig-0nate::0dave-1karen::4ella-1alyssa::3hayden-2melanie::0jacob-3hayden::1jason-0adam::0jennie-4ella::3joanna-1jason::4julie-2ben::1karen-3joanna::3karli-4julie::4ken-0jacob::2melanie-4addie::0nate-1courtney"
+  "lastRun":"0adam-4ken::4addie-0dave::2ben-3joanna::2bentley-0nate::2cohen-0adam::1courtney-4julie::3craig-1courtney::0dave-3hayden::4ella-1karen::3hayden-2cohen::1jason-2ben::0jennie-3karli::3joanna-0jennie::4julie-2bentley::1karen-4addie::3karli-4ella::4ken-1jason::2melanie-3craig::0nate-2melanie"
+
 }
 
 
